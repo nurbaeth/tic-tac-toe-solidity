@@ -6,7 +6,7 @@ No tokens, no rewards — just pure strategy between two players, right on the b
 ## 🚀 Features
 
 - 👤 Two-player mode (X and O)
-- ⛓️ On-chain game logic
+- ⛓️ On-chain game logic 
 - ✅ Win, lose, or draw detection
 - 🔐 Turn enforcement (no cheating!)
 - 🧠 Simple and clean design
